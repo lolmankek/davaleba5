@@ -8,7 +8,7 @@ public class java_logger {
     private Object Exeption;
 
     /**
-     * Method witch takes two parameters and checks if are they empty, if not method writes message for type (btw, If you read it don't know English:)
+     * Method witch takes two parameters and checks if they are empty, if not method writes message for type (btw, If you read it don't know English:)
      * @param logginglevel
      * @param message
      */

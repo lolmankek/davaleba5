@@ -1,5 +1,5 @@
 /**
- * This enum contains logging level types BRUH
+ * This enum contains logging level types
  */
 public enum LoggingLevels {
     ERROR,
